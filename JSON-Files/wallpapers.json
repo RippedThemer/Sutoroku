@@ -1,0 +1,49 @@
+{
+    "wallpapers": [
+            {
+                        "author": "Mike Anderson",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity.jpg",
+                        "name": "serenity"
+                    },
+                    {
+                        "author": "Mike Anderson",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity2.jpg",
+                        "name": "serenity2"
+                    },
+                    {
+                        "author": "Mike Anderson",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity3.jpg",
+                        "name": "serenity3"
+                    },
+                    {
+                        "author": "Mike Anderson",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity4.jpg",
+                        "name": "serenity4"
+                    },
+                    {
+                        "author": "Mike Anderson",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity5.jpg",
+                        "name": "serenity5"
+                    },
+                    {
+                        "author": "Mike Anderson",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity6.jpg",
+                        "name": "serenity6"
+                    },
+                    {
+                        "author": "Mike Anderson",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity7.jpg",
+                        "name": "serenity7"
+                    },
+                    {
+                        "author": "Mike Anderson",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity8.jpg",
+                        "name": "serenity8"
+                    },
+                    {
+                        "author": "Mike Anderson",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity9.jpg",
+                        "name": "serenity9"                  
+                    }
+          ]
+}
