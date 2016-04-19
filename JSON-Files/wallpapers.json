@@ -1,49 +1,70 @@
 {
     "wallpapers": [
-            {
-                        "author": "Mike Anderson",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity.jpg",
-                        "name": "serenity"
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/8track.png",
+                        "name": "8track"
                     },
                     {
-                        "author": "Mike Anderson",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity2.jpg",
-                        "name": "serenity2"
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Cassette.png",
+                        "name": "Cassette"
                     },
                     {
-                        "author": "Mike Anderson",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity3.jpg",
-                        "name": "serenity3"
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/CD.png",
+                        "name": "CD"
                     },
                     {
-                        "author": "Mike Anderson",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity4.jpg",
-                        "name": "serenity4"
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Great%20Outdoors.png",
+                        "name": "Great Outdoors"
                     },
                     {
-                        "author": "Mike Anderson",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity5.jpg",
-                        "name": "serenity5"
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/I%20Dont%20Need%20To%20Walk%20Around%20In.png",
+                        "name": "I Dont Need To Walk Around In"
                     },
                     {
-                        "author": "Mike Anderson",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity6.jpg",
-                        "name": "serenity6"
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/RCAtape.png",
+                        "name": "RCAtape"
+                     },
+                     {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/skewed-sunset.png",
+                        "name": "skewed-sunset"
                     },
                     {
-                        "author": "Mike Anderson",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity7.jpg",
-                        "name": "serenity7"
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Skyline%20Blue.png",
+                        "name": "Skyline Blue"
                     },
                     {
-                        "author": "Mike Anderson",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity8.jpg",
-                        "name": "serenity8"
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Skyline%20Green.png",
+                        "name": "Skyline Green"
                     },
                     {
-                        "author": "Mike Anderson",
-                        "url": "https://raw.githubusercontent.com/RippedThemer/Serenity/master/Wallpapers/serenity9.jpg",
-                        "name": "serenity9"                  
-                    }
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Skyline%20Red.png",
+                        "name": "Skyline Red"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Skyline%20Yellow.png",
+                        "name": "Skyline Yellow"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Glare-Void/master/Wallpapers/TE7.jpg",
+                        "name": "Vinyl"
+                   },
+                   {            
+                       "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Where%20No%20Man.png",
+                        "name": "Where No Man"
+
+                    }                                                    
           ]
 }
