@@ -42,6 +42,16 @@
                     },
                     {
                         "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Green%20Pizza.png",
+                        "name": "Green Pizza"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Hillside.png",
+                        "name": "Hillside"
+                    },
+                    {    
+                        "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/I%20Dont%20Need%20To%20Walk%20Around%20In.png",
                         "name": "I Dont Need To Walk Around In"
                     },
@@ -52,10 +62,30 @@
                     },
                     {
                         "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Love%20is%20a%20drip.png",
+                        "name": "Love Is A Drip"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Palace.png",
+                        "name": "Palace"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Rasta%20Drops.png",
+                        "name": "Rasta Drops"
+                    },
+                    {            
+                        "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/RCAtape.png",
                         "name": "RCAtape"
                     },
                     {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Red%20Pizza.png",
+                        "name": "Red Pizza"
+                    },
+                    {    
                         "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Retro-Coffee-Poster.png",
                         "name": "Retro Coffee Poster"
@@ -99,6 +129,11 @@
                        "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Where%20No%20Man.png",
                         "name": "Where No Man"
+                    },
+                    {
+                       "author": "Travis Hall",
+                       "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Yellow%20Pizza.png",
+                       "name": "Yellow Pizza" 
 
                     }                                                    
           ]
