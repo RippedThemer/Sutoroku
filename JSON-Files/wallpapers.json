@@ -11,11 +11,21 @@
                         "name": "Big Ben"
                     },
                     {
+                    	"author": "Travis Hall",
+                    	"url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Black%20Panther.png",
+                    	"name": "Black Panther"
+                    },
+                    {	
                         "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Blue%20Pizza.png",
                         "name": "Blue Pizza"
                     },
                     {    
+                    	"author": "Travis Hall",
+                    	"url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Captain%20America.png",
+                    	"name": "Captain America"
+                    },
+                    {	
                         "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Cassette.png",
                         "name": "Cassette"
@@ -31,6 +41,16 @@
                         "name": "Das Boot"    
                     },
                     {
+                    	"author": "Travis Hall",
+                    	"url": "https://github.com/RippedThemer/Sutoroku/blob/master/Wallpapers/Deadshot.png",
+                    	"name": "Deadshot"
+                    },
+                    {
+                    	"author": "Travis Hall",
+                    	"url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Ferngully.png",
+                    	"name": "Ferngully"
+                    },
+                    {		
                         "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Great%20Outdoors.png",
                         "name": "Great Outdoors"
@@ -71,6 +91,11 @@
                         "name": "Palace"
                     },
                     {
+                    	"author": "Travis Hall",
+                    	"url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Prism.png",
+                    	"name": "Prism"
+                    },
+                    {	
                         "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Rasta%20Drops.png",
                         "name": "Rasta Drops"
@@ -131,9 +156,19 @@
                         "name": "Where No Man"
                     },
                     {
-                       "author": "Travis Hall",
-                       "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Yellow%20Pizza.png",
-                       "name": "Yellow Pizza" 
+                    	"author": "Travis Hall",
+                    	"url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Winter%20Soldier.png",
+                    	"name": "Winter Soldier"
+                    },
+                    {
+                		"author": "Travis Hall",
+                		"url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Winter%20Soldier2.png",
+                		"name": "Winter Soldier2"
+                	},
+                	{	
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Sutoroku/master/Wallpapers/Yellow%20Pizza.png",
+                        "name": "Yellow Pizza" 
 
                     }                                                    
           ]
